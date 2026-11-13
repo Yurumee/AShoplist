@@ -1,0 +1,1 @@
+export * from './compras.dto.js'
